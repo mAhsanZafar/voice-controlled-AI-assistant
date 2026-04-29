@@ -14,7 +14,7 @@ System Commands – Supports shutdown, restart, and sleep commands.
 4. **Email & Messaging**
 Check Emails – Connects to Gmail (imaplib) and informs if there are new messages.
 Send Messages – Automates message sending on Messenger and WhatsApp using pyautogui.
-5. ** Brightness Control**
+5. **Brightness Control**
 Adjust Screen Brightness – Increases, decreases, or sets a specific brightness level (screen_brightness_control).
 6. **Weather & Date Information**
 Weather Updates – Uses pyowm (OpenWeatherMap API) to provide weather forecasts, temperature, and sunrise/sunset times.
